@@ -1,0 +1,22 @@
+int a ;
+char a ,b =1 ,c= 1 ;
+
+
+class myClass {
+
+		int x ;
+		int arr[];
+		int ay []={1, 2};
+
+		myClass(){
+		  a = f(1 ,3 ,4 )
+		}
+		int print (){
+		  reutrn 7 > 3  ? 5 : r ;
+		}
+		
+		int getter (){}
+
+
+
+}

@@ -1,0 +1,24 @@
+
+class myClass {
+
+// the constructor
+        myClass (int name ,int a ,string tokens []) {
+        /* do somethings
+                */
+                while(a>0){
+                        name= tokens[a]== 1 ? tokens[a] : "hiiii";
+                }
+        }
+
+        //declaring some variables
+        int mvar ;
+        string  s;
+        // some methods
+        int a (int c ,char args [] ){
+                return 1 ;
+        }
+}
+int main (){
+        int a = myClass(1 ,2 ,"hi") ;
+return 0 ;
+}

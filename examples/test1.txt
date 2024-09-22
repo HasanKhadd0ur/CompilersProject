@@ -1,0 +1,21 @@
+
+
+string print  (int x ,string  y ){
+   int  output = 123 ;
+   string a,b,c ;
+   int b []= {1 ,2 ,3 };
+   int a [];
+  while (x  > 0 ) {
+	int a =1 ;
+	a [ 1 ] = f (a,b ,"hellow ") ;
+  
+  }
+    return a ;
+
+}
+char myFun () {
+    return 12  ?   a : b ;  
+}
+int x  =112;
+string  y ;
+char a  ,b ='2', c ;

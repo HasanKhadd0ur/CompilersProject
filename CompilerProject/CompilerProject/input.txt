@@ -1,0 +1,23 @@
+int a ;
+char a ,b =1 ,c= 1 ;
+
+
+class myClass {
+
+		int x ;
+		int arr[];
+		int ay []={2};
+
+		myClass(){
+		  a = f(1  ,4 );
+		}
+
+		int print (){
+		  return a   ? 5 : r ;
+		}
+		
+		int getter (){}
+
+
+
+}
